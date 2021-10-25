@@ -1,8 +1,8 @@
 ### HOW TO EXECUTE THE PYTHON PART:
 1. Build the api:
-    ````
+    ```
     docker-compose build api`
-    ````
+    ```
 
 2. Start the api
     ```
